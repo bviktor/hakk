@@ -1,0 +1,9 @@
+*.suo
+*.user
+HAKK/HAKK.Windows/AppPackages/*
+HAKK/HAKK.Windows/bin/*
+HAKK/HAKK.Windows/obj/*
+HAKK/HAKK.WindowsPhone/AppPackages/*
+HAKK/HAKK.WindowsPhone/BundleArtifacts/*
+HAKK/HAKK.WindowsPhone/bin/*
+HAKK/HAKK.WindowsPhone/obj/*

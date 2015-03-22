@@ -1,4 +1,4 @@
-# hakk
+# HAKK
 Használtautó Átírás Költség Kalkulátor
 
 ## Letöltés

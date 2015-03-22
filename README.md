@@ -3,7 +3,7 @@ Használtautó Átírás Költség Kalkulátor
 
 ## Használat
 
-Magától értetődő. Töltsük ki a 3 beviteli mezőt, majd nyomjunk a **Kalkulál** gombra.
+Magától értetődő. Töltsük ki a 3 beviteli mezőt, majd nyomjunk a **Kiszámol** gombra.
 
 <img src="screenshots/hakk.png" />
 
